@@ -4,5 +4,5 @@ This is a repository of some educational projects with LC3 (shorthand for Little
 ## Generate_Hist
 Given a string, computes a histogram of letters and non-letters in the string
 
-###### Stack_Calc
+## Stack_Calc
 Built a calculator that performs the basic arithmetic operations
